@@ -1,0 +1,159 @@
+User-agent: *
+
+Disallow:/search/search-result?search_form
+
+Disallow:/TRC*
+
+Disallow:/index.php
+
+Disallow:/index.php/*
+
+Disallow:/report_search
+
+
+
+Sitemap: https://www.thereportcubes.com/sitemap.xml
+
+Sitemap: https://www.thereportcubes.com/press-release.xml
+
+Sitemap: https://www.thereportcubes.com/infographics.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/food-beverages.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/healthcare.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/automotive-transport.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/chemicals-materials.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/consumer-goods-services.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/energy-natural-resources.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/information-technology.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/manufacturing-construction.xml
+
+sitemap: https://www.thereportcubes.com/report-store/electronics.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/logistics-and-warehousing.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/food.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/tire.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/chemicals.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/healthcare-services.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/medical-device.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/household.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/consumer-services.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/utilities.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/software-services.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/beverages.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/automotive-service.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/electromobility.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/metals-minerals.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/data-centers-networking.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/personal-care-products.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/building-management.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/construction.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/global.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/north-america.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/south-america.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/gcc.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/mea.xm
+
+Sitemap: https://www.thereportcubes.com/report-store/europe.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/asia-pacific.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/south-east-asia.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/qatar.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/africa.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/middle-east.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/saudi-arabia.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/usa.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/canada.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/uae.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/india.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/oman.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/kuwait.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/vietnam.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/indonesia.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/thailand.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/philippines.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/singapore.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/egypt.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/mexico.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/lebanon.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/paraguay.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/latin-america.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/bahrain.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/germany.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/turkey.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/uruguay.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/sweden.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/kenya.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/peru.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/france.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/japan.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/italy.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/china.xml
+
+Sitemap: https://www.thereportcubes.com/report-store/brazil.xml
+
+Sitemap: https://www.thereportcubes.com/other-pages.xml
+
+Sitemap: https://www.thereportcubes.com/other-industries.xml
+
+Sitemap: https://www.thereportcubes.com/other-regions.xml
